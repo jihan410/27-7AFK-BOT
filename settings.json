@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "GG24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "in1.bdhostjihan.qzz.io",
+    "port": 30602,
     "version": "1.20.1",
     "try-creative": false
   },
