@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "FeatherMC",
+    "username": "server",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "FeatherMC.bdhostjihan.qzz.io",
-    "port": 27998,
+    "ip": "Royal-smp007.aternos.me",
+    "port": 19235,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Welcome to FeatherMC",
+        "Welcome to server",
       ]
     },
     "chat-log": true,
